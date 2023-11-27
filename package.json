@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.17.0",
+    "fixie": "^6.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
