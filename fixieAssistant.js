@@ -33,7 +33,7 @@ const QUERY_FIXIE_CORPUS = {
         "query"
       ]
     },
-    "description": "Query a knowledge base of information about Matt Welsh."
+    "description": "Query a knowledge base of information about the company Fixie.ai and their products and APIs."
 };
 
 const TOOLS = [{ "type": "function", "function": QUERY_FIXIE_CORPUS }];
